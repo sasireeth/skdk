@@ -1,5 +1,11 @@
 In this project, let's build a **Match Game** 
 
+## Demo
+
+Watch the demo video of the Match Game:
+[Match Game Demo](https://assets.ccbp.in/frontend/content/react-js/match-game-output.mp4)
+
+
 ### Set Up Instructions
 
 <details>
